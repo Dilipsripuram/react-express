@@ -1,9 +1,9 @@
 # react-express
-Installation:
-cd react-express/frontend
-npm start 
-npm audit fix
-cd react-express (root folder)
+#Installation:
+#cd react-express/frontend
+#npm start 
+#npm audit fix
+#cd react-express (root folder)
 npm run dev
 **********************************************************************************
 Running:
