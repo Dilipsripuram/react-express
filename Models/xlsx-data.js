@@ -10,7 +10,7 @@ function tableData(){
     var xlsx = require("xlsx");
 
     //Passing cellDates:true to convert xlsx date convention to javascript dates.
-    var workBook = xlsx.readFile("./Data/SampleData.xlsx", {cellDates:true});
+    var workBook = xlsx.readFile("./Data/SampleData.xlsx", {cellDates:true });
 
     var workSheet = workBook.Sheets["SalesOrders"];
 
